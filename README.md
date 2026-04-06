@@ -19,3 +19,23 @@
  - Query Methods & JPQL
  - Paging, Sorting & Auditing
  - Project : Employee Directory API  
+
+
+ # Module 14: Exception Handling and Logging
+ - Global Error Handling
+ - Application Logging
+ - Project : Validated Form API
+
+# Module 15: Spring Security
+ - Spring Security Basics
+ - Endpoint Authorization with Spring Security
+ - Project : Secure Notes API
+
+ # Module 16: Testing Spring Apps
+ - Unit Testing
+ - Integration Testing
+ 
+ # Module 17: Configuration & Profiles
+ - Externalized Configuration
+ - Advanced Profile Management
+ - Project : Book API Testing
