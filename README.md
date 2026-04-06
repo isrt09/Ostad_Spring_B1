@@ -1,25 +1,21 @@
 # Backend Web Development with Java & SpringBoot
 
-# Understanding Spring Core
- - Why Learn Spring Boot
- - Spring vs Spring Boot 
- - Inversion of Control (IoC) 
- - Spring IoC Container 
- - Container Configuration
- - Bean Overview 
- - Bean Scopes 
- - Spring Bean Life Cycle Stages
+# Module 10: Introduction to Spring Boot 
+ - Understanding Spring Core
+ - Introduction to Spring Boot
+ - Project : Welcome API 
  
- # Introduction to Spring Boot
-- What is Spring Boot 
-- Key features 
-- Creating First Project 
-- Project Structure 
-- @SpringBootApplication Annotation 
-- @Configuration 
-- @EnableAutoConfiguration 
-- How @EnableAutoConfiguration Works Internally 
-- Customizing Auto-configuration 
-- @ComponentScan 
-- Customizing the Component Scan 
-- Benefits of Using @SpringBootApplication
+ # Module 11: Building REST API
+ - Introduction to REST API
+ - POST, PUT & DELETE Endpoints
+ - Project : Book Management API  
+
+ # Module 12: Data Persistence with JPA I
+ - JPA Entities & Repositories
+ - JPA Relationships
+ - Project : Student Database API  
+
+ # Module 13: Data Persistence with JPA II
+ - Query Methods & JPQL
+ - Paging, Sorting & Auditing
+ - Project : Employee Directory API  
